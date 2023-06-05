@@ -7,3 +7,6 @@ neuronales feed-forward y de esta manera predecir dicha categorı́a. Para reali
 descarga un dataset de la pagina Kaggle, este dataset contiene 26 variables que serán analizadas
 a continuación. Para realizar el análisis de clasificación, se trabajaran 4 etapas, comprensión del
 dataset, limpieza de datos, utilización de variables categóricas y finalmente la etapa de ajustes.
+
+Dataset:
+https://www.kaggle.com/crowdflower/twitter-user-gender-classification/
